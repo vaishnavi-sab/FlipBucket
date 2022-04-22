@@ -1,0 +1,147 @@
+body a{
+	font-family: pt sans, sans-serif;
+	font-size: 14px!important;
+	line-height: 1.6;
+}
+.nav-item dropdown a{
+	display: inline-block;
+	width: 150px;
+	text-align: center;
+	text-decoration: none;
+	padding: 10px
+}
+
+.last{
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+}
+.navbar-brand{
+	color: white;
+	padding-right: 60px;
+	padding-left: 60px;
+	
+}
+.nav-link dropdown-toggle{
+	padding-right: 60px;
+	padding-left: 60px;
+}
+
+.white-color{
+	color: white;
+	padding-right: 100px;
+}
+
+.Subnav a{
+
+	text-decoration: none;
+	color: Black;
+}
+.Subnav{
+	height: 40px;
+	width: 100%;
+	background-color: white;
+	position: relative;
+}
+.Subnav ul{
+	margin: 5%;
+	padding: 0;
+}
+.Subnav li{
+	display: inline;
+	float: left;
+
+}
+
+.Subnav a{
+	display: inline-block;
+	width: 120px;
+	text-align: center;
+	padding: 20px;
+}
+.products h3{
+ margin: 50px;
+}
+.products{
+	height: 40px;
+	width: 100%;
+	background-color: white;
+	position: relative;
+}
+.products ul{
+	margin: 1%;
+	padding: 0;
+}
+.products li{
+	display: inline;
+	float: left;
+
+}
+.products a{
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	text-decoration: none;
+	margin: 30px;
+	padding: 10px;
+}
+.best h3{
+ margin: 50px;
+ padding-top: 100px;
+}
+.best{
+	height: 40px;
+	width: 100%;
+	background-color: white;
+	position: relative;
+}
+.best ul{
+	margin: 0;
+	padding: 0;
+}
+.best li{
+	display: inline;
+	float: left;
+
+}
+.best a{
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	text-decoration: none;
+	margin: 30px;
+	padding: 10px;
+}
+.fashion h3{
+ margin: 50px;
+ padding-top: 450px;
+}
+.fashion{
+	height: 0;
+	width: 100%;
+	background-color: white;
+	position: relative;
+
+}
+.fashion-sub ul{
+	margin: 0;
+	padding: 0;
+}
+.fashion-sub li{
+	display: inline;
+	float: left;
+
+}
+.fashion-sub a{
+	display: inline-block;
+	width: 200px;
+	text-align: center;
+	text-decoration: none;
+	margin: 30px;
+	padding: 10px;
+}
+.para{
+	padding-top: 650px;
+	font-size: 10px!important;
+	margin: 50px;
+}
